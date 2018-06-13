@@ -1,0 +1,15 @@
+DDH:
+security_level	long_term_key_generation_time	session_execution_time	session_key_output_time	network_consumption	memory_consumption(KB)
+80	0.0007483959197998047	0.003175497055053711	0.0007236003875732422	1852	63840 
+112	0.002687215805053711	0.004071474075317383	0.0023670196533203125	3652	63980
+128	0.005522012710571289	0.005901813507080078	0.005026102066040039	5448	63984
+
+
+
+
+
+DCR:
+security_level	long_term_key_generation_time	session_execution_time	session_key_output_time	network_consumption memory_consumption
+80
+112
+128
